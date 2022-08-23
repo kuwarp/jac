@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd5524ae.css",
+    "main.js": "/static/js/main.b591a5de.js",
+    "static/media/poppy.jpg": "/static/media/poppy.9ee7f658328eb7e7fc21.jpg",
+    "static/media/neu-power.jpg": "/static/media/neu-power.7abb6749f806540345e1.jpg",
+    "static/media/ericka.jpg": "/static/media/ericka.47d474f663fd9e9f8d92.jpg",
+    "static/media/phantom.jpg": "/static/media/phantom.315c1e123d9c0495448d.jpg",
+    "static/media/silver01.png": "/static/media/silver01.e56269a3935ffb4062b1.png",
+    "static/media/red01.png": "/static/media/red01.1fc8e8e1d6bc57121e9e.png",
+    "static/media/black01.png": "/static/media/black01.23382be4e3ed90072ade.png",
+    "static/media/electric.jpg": "/static/media/electric.001208e9fb16b8444936.jpg",
+    "static/media/or01.png": "/static/media/or01.cf3b3e761eda17aafac9.png",
+    "static/media/bl01.png": "/static/media/bl01.7221d226ba628a1a08bf.png",
+    "static/media/scr.png": "/static/media/scr.fd6ca5ad525b0fe5f8b5.png",
+    "static/media/Aj-dark.jpg": "/static/media/Aj-dark.b96613f17db1965decc5.jpg",
+    "static/media/logo.png": "/static/media/logo.ba30b456a83d62b00da9.png",
+    "index.html": "/index.html",
+    "main.bd5524ae.css.map": "/static/css/main.bd5524ae.css.map",
+    "main.b591a5de.js.map": "/static/js/main.b591a5de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5524ae.css",
+    "static/js/main.b591a5de.js"
+  ]
+}
