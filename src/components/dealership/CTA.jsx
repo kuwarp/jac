@@ -1,14 +1,14 @@
-import React, { useState, useRef } from "react";
+import React, { useState } from "react";
 import { Modal, Form, Button, ModalBody, ModalFooter } from "react-bootstrap";
-import leftimg from "../../assets/logo-1.png";
+// import leftimg from "../../assets/logo-1.png";
 import "./cta.css";
 function CTA() {
-  const values = [true, "sm-down", "md-down", "lg-down", "xl-down", "xxl-down"];
-  const [fullscreen, setFullscreen] = useState(true);
+  // const values = [true, "sm-down", "md-down", "lg-down", "xl-down", "xxl-down"];
+  // const [fullscreen, setFullscreen] = useState(true);
   const [modalAction, setModalAction] = useState(false);
 
   const handleModal = (breakpoint) => {
-    setFullscreen(breakpoint);
+    // setFullscreen(breakpoint);
     setModalAction(!modalAction);
   };
 

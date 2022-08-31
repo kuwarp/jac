@@ -170,7 +170,7 @@ const Navbar = () => {
 
 export default Navbar;
 
-{
+
   /* <div className=" head-count">
 <h3 className="head">Book a ride</h3>
 </div>
@@ -223,4 +223,4 @@ export default Navbar;
 </Modal.Footer>
 
 </Modal> */
-}
+
