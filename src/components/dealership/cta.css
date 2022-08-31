@@ -56,6 +56,28 @@
     min-width: 150px;
 }
 
+.modal-clan{
+    display: flex;
+    flex-direction: row;
+    margin-top: 12vh;
+    margin-left: 12vh;
+}
+.left-img img{
+    position: relative;
+    border-radius: 23vh;
+}
+
+.jac-dealer{
+    display: flex;
+    margin-left: 67vh;
+    flex-direction: column;
+}
+.jac-form{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
 @media screen and (max-width: 650px) {
     .jac__cta {
         flex-direction: column;

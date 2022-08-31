@@ -20,8 +20,7 @@ const Brands = () => {
        {/* <Router exact path="../../components/yakuza-aj/aj" component={AJ}> */}
         <Article
          imgUrl={bl02} text="Yakuza - ERICKA feel pride on drive" />
-      
-        <Article imgUrl={bl03} text="Yakuza - Neu the power of flash" />
+      <Article imgUrl={bl03} text="Yakuza - Neu the power of flash" />
         <Article imgUrl={bl04} text="Yakuza - CK PHANTOM catches eyes on you" />
         <Article imgUrl={bl05} text="Yakuza - POPPY lets run on passion" />
         <Article imgUrl={bl06} text="Yakuza - DELTA king of offroad" />

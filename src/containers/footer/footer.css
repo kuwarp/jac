@@ -101,7 +101,7 @@
 
 .jac__footer-links_div p {
     font-size: 12px;
-    line-height: 15px;
+    line-height: 20px;
     font-family: var(--font-family);
     color: #fff;
 
@@ -116,12 +116,28 @@
 }
 
 .jac__footer-copyright p {
-    font-size: 12px;
+    font-size: 20px;
     font-family: var(--font-family);
-    line-height: 15px;
-    color: #fff;
+    line-height: 25px;
+    color: rgb(202, 250, 105);
 }
-
+ .social{
+    color: #fff;
+    display: flex;
+    /* font-size: 20px; */
+    font-size: 12px;
+    line-height: 20px;
+    align-items: center;
+    gap: 8px;
+ }
+ .social-icon{
+    color: rgb(247, 226, 88);
+    height: auto;
+ }
+ 
+ .social:hover{
+    color: darkkhaki;
+}
 @media screen and (max-width: 850px) {
     .jac__footer-heading h1 {
         font-size: 44px;
