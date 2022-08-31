@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jac/static/css/main.bd5524ae.css",
-    "main.js": "/jac/static/js/main.b48dd6b3.js",
+    "main.css": "/jac/static/css/main.1ae1287c.css",
+    "main.js": "/jac/static/js/main.64a424f8.js",
     "static/media/poppy.jpg": "/jac/static/media/poppy.9ee7f658328eb7e7fc21.jpg",
     "static/media/neu-power.jpg": "/jac/static/media/neu-power.7abb6749f806540345e1.jpg",
     "static/media/ericka.jpg": "/jac/static/media/ericka.47d474f663fd9e9f8d92.jpg",
@@ -16,11 +16,11 @@
     "static/media/Aj-dark.jpg": "/jac/static/media/Aj-dark.b96613f17db1965decc5.jpg",
     "static/media/logo.png": "/jac/static/media/logo.ba30b456a83d62b00da9.png",
     "index.html": "/jac/index.html",
-    "main.bd5524ae.css.map": "/jac/static/css/main.bd5524ae.css.map",
-    "main.b48dd6b3.js.map": "/jac/static/js/main.b48dd6b3.js.map"
+    "main.1ae1287c.css.map": "/jac/static/css/main.1ae1287c.css.map",
+    "main.64a424f8.js.map": "/jac/static/js/main.64a424f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd5524ae.css",
-    "static/js/main.b48dd6b3.js"
+    "static/css/main.1ae1287c.css",
+    "static/js/main.64a424f8.js"
   ]
 }
