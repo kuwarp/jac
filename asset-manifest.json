@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jac/static/css/main.5adc6c40.css",
-    "main.js": "/jac/static/js/main.9bb85c7e.js",
+    "main.js": "/jac/static/js/main.a0795ec1.js",
     "static/media/poppy.jpg": "/jac/static/media/poppy.9ee7f658328eb7e7fc21.jpg",
     "static/media/neu-power.jpg": "/jac/static/media/neu-power.7abb6749f806540345e1.jpg",
     "static/media/ericka.jpg": "/jac/static/media/ericka.47d474f663fd9e9f8d92.jpg",
@@ -22,10 +22,10 @@
     "static/media/sapphire.jpg": "/jac/static/media/sapphire.22e0b0f1cc8d38f7828b.jpg",
     "index.html": "/jac/index.html",
     "main.5adc6c40.css.map": "/jac/static/css/main.5adc6c40.css.map",
-    "main.9bb85c7e.js.map": "/jac/static/js/main.9bb85c7e.js.map"
+    "main.a0795ec1.js.map": "/jac/static/js/main.a0795ec1.js.map"
   },
   "entrypoints": [
     "static/css/main.5adc6c40.css",
-    "static/js/main.9bb85c7e.js"
+    "static/js/main.a0795ec1.js"
   ]
 }
