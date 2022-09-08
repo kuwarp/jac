@@ -86,7 +86,7 @@ const Navbar = () => {
           <div className="jac__navbar-menu_container scale-up-center">
             <div className="jac__navbar-menu_container-links">
               <p>
-                <a href="/">Home</a>
+                <Link to="/home ">Home</Link>
               </p>
               <p>
                 <a href="#wjac">Why Jain Auto?</a>
@@ -95,7 +95,7 @@ const Navbar = () => {
                 <a href="#possibility">DealerShip</a>
               </p>
               <p>
-                <a href="/contact">touch with us</a>
+                 <Link to="/contact">Touch with us</Link>
               </p>
               <p>
                 <a href="#blog">Library</a>
