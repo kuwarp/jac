@@ -50,10 +50,10 @@ const Navbar = () => {
           <Link to="/home ">Home</Link>
           </p>
           <p>
-            <a href="/#wjac">Why Jain Auto?</a>
+            <a href="#wjac">Why Jain Auto?</a>
           </p>
           <p>
-            <a href="/#possibility">Open to DealerShip</a>
+            <a href="/possibility">Open to DealerShip</a>
           </p> 
           <p>
           <Link to="/contact">Contact</Link>
