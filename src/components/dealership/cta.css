@@ -1,0 +1,121 @@
+.jac__cta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+
+    padding: 2rem;
+    margin: 4rem;
+    border-radius: 1rem;
+    background: var(--gradient-bar)
+}
+
+.jac__cta-content {
+    display: flex;
+    flex-direction: column;
+
+    text-align: left;
+    color: rgb(197, 239, 46);
+}
+
+.head-counting{
+    background-color:rgb(27, 91, 137) ;
+   padding: 4px;
+   margin: 12px 12px ;
+   
+
+}
+.btn-sec{
+    gap: 13px;
+}
+.footer-head,
+.jac__cta-content p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 30px;
+    font-weight: 500;
+}
+
+.jac__cta-content h3 {
+    font-family: var(--font-family);
+    font-size: 24px;
+    line-height: 45px;
+    font-weight: 800;
+}
+
+.jac__cta-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 2rem;
+}
+
+.jac__cta-btn button {
+    background: rgb(48, 100, 243);
+    color: #fff;
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+
+    border: none;
+    outline: none;
+    cursor: pointer;
+    min-width: 150px;
+}
+
+.modal-clan{
+    display: flex;
+    flex-direction: row;
+    margin-top: 12vh;
+    margin-left: 12vh;
+}
+
+
+.jac-dealer{
+    display: flex;
+    margin-left: 7vh;
+    flex-direction: column;
+}
+.jac-form{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+input{
+     border: 0;
+     border-bottom:2px  rgb(48, 100, 243) !important;
+     cursor:pointer;
+     
+}
+
+@media screen and (max-width: 650px) {
+    .jac__cta {
+        flex-direction: column;
+    }
+
+    .jac__cta-btn {
+        margin: 2rem 0 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .jac__cta {
+        flex-direction: column;
+        margin: 4rem 2rem;
+    }
+
+    .jac__cta-content h3 {
+        font-size: 18px;
+        line-height: 32px;
+    }
+
+    .jac__cta-btn button {
+        font-size: 14px;
+        line-height: 28px;
+    }
+}

@@ -1,0 +1,14 @@
+.cr-dash{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    /* max-width: fit-content; */
+    max-height: 50vh;
+}
+@media screen and (max-width:980px) {
+    .cr-dash img{
+        height: inherit;
+        width: 22vh;
+    }
+    
+}
